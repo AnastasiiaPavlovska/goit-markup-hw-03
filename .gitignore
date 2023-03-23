@@ -1,0 +1,6 @@
+.code/
+file
+*.swp
+.settings/
+.vscode/
+*.o
